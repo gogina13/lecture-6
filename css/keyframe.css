@@ -1,0 +1,14 @@
+@keyframes bird {
+    0% { left: 100px; }
+     100% {left: 1500px;  }
+ }
+
+@keyframes shark{
+	5%{right: 500px;}
+}
+
+    @keyframes fishboat {
+        0%{ left: 200px;}
+        50%{left: 1000px;}
+        100%{left: 1550px;}
+    }

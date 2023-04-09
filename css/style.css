@@ -1,0 +1,49 @@
+.sky-image {background-image: url(https://img.freepik.com/premium-photo/iris-fields-starry-night_738906-71.jpg?w=2000);
+    height:1000px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+    
+    .bird {position: absolute;
+        width: 350px;
+        top: 80px;
+        left:500px;
+        animation: bird 50s infinite;	
+    }
+    
+    .img-1{
+        position: absolute;
+        width: 1518px;
+        margin-top: 150px;
+    }
+    .img-2{
+        position: absolute;
+        width: 1518px;
+        margin-top: 710px;
+        height: 500px;
+    }
+    .img-3:hover{
+     width: 170px;
+    }
+    .img-3{
+        position: absolute;
+        width: 140px;
+        bottom: 130px;
+        left: 1180px;
+        animation: boat 100s ease-out infinite;
+	    transition: all 10s ease-out;
+    }
+    .img-4{
+        width: 690px;
+        position: absolute;
+        bottom: 20px;
+        animation: fishboat 50s linear infinite;
+        transition-timing-function: linear;
+    }
+
+
+    
+    
+    
